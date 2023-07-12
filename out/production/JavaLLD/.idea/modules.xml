@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BuilderDpatt/BuilderDpatt.iml" filepath="$PROJECT_DIR$/BuilderDpatt/BuilderDpatt.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaLLD.iml" filepath="$PROJECT_DIR$/JavaLLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
     </modules>
