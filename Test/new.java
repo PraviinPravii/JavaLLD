@@ -29,7 +29,7 @@ class HelloWorld {
         System.out.println(num);
         int[] array=new int[100];
         int size=array.length;
-        int x;
+        int x=10;
         System.out.println(size);
         for(int i=0;i<size;i++){
             array[i]=i+1;
